@@ -31,8 +31,6 @@ Setup!
 
 Install AutoHotkey v1.1 (https://www.autohotkey.com/download/ahk-install.exe)
 
-Download TSB_Dash_Overlay.ahk and double‑click to run or just download the compiled .exe file
-
-Launch Roblox (windowed or borderless) – the bars appear at the top-centre of your screen
+Download DashOverlay.ahk and double‑click to run or just download the compiled .exe file from here https://github.com/TRM-Diamond/TSB/releases/tag/v1.0.0
 
 Press Insert or right‑click the tray icon to exit
