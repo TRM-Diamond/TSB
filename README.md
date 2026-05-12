@@ -2,7 +2,8 @@
 A lightweight AutoHotkey overlay that displays real-time cooldown indicators for dash moves
 
 
- <!-- you can add a real screenshot later -->
+ <img width="248" height="74" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1562714e-ddc8-4556-8efc-e4fa7d81e48b" />
+<!-- you can add a real screenshot later -->
 
 Features
 Always-on-top semi-transparent bars that don’t block mouse clicks
