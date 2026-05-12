@@ -1,5 +1,6 @@
 # TSB Dash Overlay
-A lightweight AutoHotkey overlay that displays real-time cooldown indicators for dash moves in the Roblox fighting game TSB.
+A lightweight AutoHotkey overlay that displays real-time cooldown indicators for dash moves
+
 
  <!-- you can add a real screenshot later -->
 
@@ -25,11 +26,11 @@ If the dash is on cooldown or still blocked by its own animation, the keypress i
 
 The overlay is drawn using AutoHotkey’s native GUI – no external dependencies.
 
-Setup![Uploading Screenshot_1.png…]()
+Setup!
 
-Install AutoHotkey v1.1
+Install AutoHotkey v1.1 (https://www.autohotkey.com/download/ahk-install.exe)
 
-Download TSB_Dash_Overlay.ahk and double‑click to run
+Download TSB_Dash_Overlay.ahk and double‑click to run or just download the compiled .exe file
 
 Launch Roblox (windowed or borderless) – the bars appear at the top-centre of your screen
 
