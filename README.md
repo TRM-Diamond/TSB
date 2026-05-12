@@ -16,7 +16,7 @@ Front/Back Dash (5 s cooldown) – forward/backward dash (Q / W+Q / S+Q)
 
 Only activates when Roblox window is in focus – safe to type or alt-tab
 
-Spam‑proof: built‑in animation blocking prevents false triggers (adjustable duration)
+Spam‑proof:  spamming Q wont trigger it 
 
 Minimal CPU usage, runs silently in the system tray
 
