@@ -1,4 +1,4 @@
-# TSB Dash Overlay
+# The Strongest Battlegrounds Dash Overlay
 A lightweight AutoHotkey overlay that displays real-time cooldown indicators for dash moves
 
 
